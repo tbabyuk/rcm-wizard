@@ -13,7 +13,6 @@ const levelName = document.getElementById("level-name");
 selector.addEventListener("change", showRequirements)
 
 
-
 function showRequirements() {
     switch (selector.value) {
 
